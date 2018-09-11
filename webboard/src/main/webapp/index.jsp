@@ -13,6 +13,9 @@
 <a href="http://localhost:8081/board/board8List">게시판 8</a><br/>
 <a href="http://localhost:8081/board/board9List">게시판 9</a><br/>
 <a href="http://localhost:8081/board/boardGroupList">게시판 9: 그룹</a><br/>
+
+
+브런치 추가 테스트
 </body>
 </html>
 

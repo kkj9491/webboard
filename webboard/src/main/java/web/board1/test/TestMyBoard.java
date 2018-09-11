@@ -17,8 +17,6 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 public class TestMyBoard {
 
-	//테스트는 나의 생활
-	
 	
 	@Autowired
 	private DataSource ds;
